@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/Naomi27-byte/ActiveDirectoryLab/blob/main/README.md)
 -<h2> - Certifications</h2>
 
 -[Slide Deck Content](https://docs.google.com/presentation/d/1wa7L-YbUrsqJr74-EiK0vufRk1bOVTMqTXTnbzvGM2c/edit?usp=sharing)

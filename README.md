@@ -1,6 +1,6 @@
 <!-- README.md Template -->
 
-<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
+<h1 align="center">Hi 👋, I'm Orji Naomi </h1>
 <h3 align="center">Aspiring Software Engineer | ALX SE Learner</h3>
 
 ---

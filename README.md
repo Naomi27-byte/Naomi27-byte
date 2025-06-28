@@ -1,40 +1,34 @@
-<h1>Hi, I'm Naomi! </h1>
+<!-- README.md Template -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1 align="center">Hi 👋, I'm [Your Full Name]</h1>
+<h3 align="center">Aspiring Software Engineer | ALX SE Learner</h3>
 
+---
 
-  - [Active Directory Home Lab](https://github.com/Naomi27-byte/ActiveDirectoryLab/blob/main/README.md)
--<h2> - Certifications</h2>
+### 🚀 About Me
 
--[Slide Deck Content](https://docs.google.com/presentation/d/1wa7L-YbUrsqJr74-EiK0vufRk1bOVTMqTXTnbzvGM2c/edit?usp=sharing)
-<h2>📺 Popular YouTube Videos</h2>
+🌱 I am a learner of the **ALX Software Engineering** program and I'm currently revamping my GitHub profile to make it stand out in my job search journey.
 
-- [Skill Barter App](https://youtu.be/E3zaYW6E1fQ))
+💡 I started this path because I believe in using technology to solve real-world problems that matter. I’m passionate about building meaningful software solutions, especially in areas that affect my community — like mental health, education, and youth empowerment.
 
+🎯 My aim is to **become a well-rounded software engineer** who not only codes but also creates impact. That's why I’m interested in working on:
+- 🔹 Full-stack web applications
+- 🔹 Mobile apps that solve social challenges
+- 🔹 Open source tools that make learning or working easier
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### 💼 What I’m Working On
+- A **Skill-bartering app** that helps unemployed youth exchange skills.
+- Personal mini-projects to master frontend and backend development.
+- Learning **JavaScript**, **Python**, **React**, and **Databases**.
 
-[twitter]: https://twitter.com/orjinaomi
-[youtube]: https://www.youtube.com/c/orjinaomi
-[instagram]: https://www.instagram.com/orjinaomi/
-[linkedin]: https://linkedin.com/in/orjinaomi
+---
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+```html
+Languages:    JavaScript | Python | HTML5 | CSS3
+Frameworks:   React | Node.js | Express.js
+Databases:    MongoDB | MySQL
+Tools:        Git | GitHub | VS Code | Postman | Linux CLI
+Currently Learning: TypeScript | Docker
